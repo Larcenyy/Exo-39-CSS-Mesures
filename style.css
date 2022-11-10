@@ -1,0 +1,10 @@
+html body{
+    font-size: 62,5%;
+}
+
+.container{
+    background: lightyellow;
+    border: 2px dashed red;
+    height: 20rem;
+    width: 20rem;
+}
